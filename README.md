@@ -127,7 +127,7 @@ streamlit run app.py
 **Anuj Trivedi**  
 _B.Tech Graduate | Machine Learning and DSA Enthusiast_  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anuj-trivedi-847192232/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anuj-trivedi-2a538827a/)
 
 ---
 
