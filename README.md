@@ -25,6 +25,7 @@ Traffic-Sign-Recognition/
 ├── traffic_sign_model.keras  # Trained model
 ├── traffic-Recognition.ipynb # Training pipeline
 ├── README.md
+├── Requirements.txt
 ├── labels.pickle
 └── .gitignore
 ```
@@ -130,6 +131,3 @@ _B.Tech Graduate | Machine Learning and DSA Enthusiast_
 
 ---
 
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
