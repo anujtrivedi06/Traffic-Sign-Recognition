@@ -20,14 +20,10 @@ This project builds a Convolutional Neural Network (CNN) to classify traffic sig
 
 ```
 Traffic-Sign-Recognition/
-├── app/
-│   └── app.py                    # Streamlit frontend
-├── data/
-│   └── label_names.csv           # Class ID to label mapping
-├── model/
-│   └── traffic_sign_model.keras  # Trained model
-├── notebooks/
-│   └── traffic-Recognition.ipynb # Training pipeline
+├── app.py                  # Streamlit frontend
+├── label_names.csv           # Class ID to label mapping
+├── traffic_sign_model.keras  # Trained model
+├── traffic-Recognition.ipynb # Training pipeline
 ├── README.md
 ├── labels.pickle
 └── .gitignore
@@ -110,7 +106,8 @@ streamlit run app.py
 
 ## 🖼️ Sample Screenshot
 
-> *(Add a screenshot here of the Streamlit app interface or confusion matrix)*
+> <img width="185" height="335" alt="image" src="https://github.com/user-attachments/assets/f8d38eed-c26e-4166-9365-ddfa55e891bd" />
+
 
 ---
 
